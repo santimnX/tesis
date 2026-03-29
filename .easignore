@@ -43,9 +43,8 @@ app-example
 /android
 
 # Expo / EAS Credentials
-credentials.json
-
+!credentials.json
 # Archivos de configuración local de Firebase (opcional pero recomendado)
-google-services.json
-tesis-c36ff-firebase-adminsdk-fbsvc-083ef51533.json
-GoogleService-Info.plist
+!google-services.json
+!tesis-c36ff-firebase-adminsdk-fbsvc-083ef51533.json
+!GoogleService-Info.plist
