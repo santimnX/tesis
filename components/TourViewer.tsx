@@ -10,7 +10,7 @@ import {
 import { WebView } from 'react-native-webview';
 
 // ─── Reemplaza con la URL real de tu tour en Lapentor ───────────────────────
-const LAPENTOR_URL = 'https://lapentor.com/tour/TU-ID-AQUI';
+const LAPENTOR_URL = 'https://app.lapentor.com/sphere/recorrido-360-uets';
 
 // ─── Versión WEB: usa iframe ────────────────────────────────────────────────
 function TourWeb() {
